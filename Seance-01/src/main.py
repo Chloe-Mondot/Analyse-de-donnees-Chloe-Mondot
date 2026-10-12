@@ -1,4 +1,4 @@
-print('Bienvenue dans le cours d\'analyse de données en géographie !')
+print('Bienvenue dans le cours d\'analyse de données en histoire !')
 
 import numpy
 import pandas as pd
